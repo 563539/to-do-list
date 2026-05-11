@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config *)",
+      "Bash(netstat -ano)",
+      "Bash(curl -x http://127.0.0.1:7897 -I https://github.com --connect-timeout 5)"
+    ]
+  }
+}
