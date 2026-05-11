@@ -10,7 +10,9 @@
       "Bash(ls -la ~/.ssh/ 2>&1)",
       "Read(//c/Users/admin/**)",
       "Bash(curl -x http://127.0.0.1:10808 -I https://github.com --connect-timeout 5)",
-      "Bash(curl -x http://127.0.0.1:10811 -I https://github.com --connect-timeout 5)"
+      "Bash(curl -x http://127.0.0.1:10811 -I https://github.com --connect-timeout 5)",
+      "Bash(gh auth *)",
+      "Bash(git credential-manager *)"
     ]
   }
 }
