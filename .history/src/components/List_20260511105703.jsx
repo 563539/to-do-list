@@ -10,7 +10,7 @@ export default function List() {
     return (
       <EmptyState>
         <EmptyText>暂无任务</EmptyText>
-        <EmptySubtext>点击上方可以添加新计划</EmptySubtext>
+        <EmptySubtext>点击上方添加新计划</EmptySubtext>
       </EmptyState>
     );
   }
